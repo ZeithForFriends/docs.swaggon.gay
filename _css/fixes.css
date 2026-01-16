@@ -189,3 +189,14 @@ ToC
 /* aside.toc-nav {
 	right: -1% !important;
 } */
+
+/* 
+Keyboard
+*/
+
+kbd {
+  --kbd-font-size: 12px;
+  --kbd-padding: 6px;
+  --kbd-margin: 1px;
+  vertical-align: middle;
+}

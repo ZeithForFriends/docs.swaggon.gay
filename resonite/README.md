@@ -76,7 +76,7 @@ In VR these are mapped to your controller. Since every controller has a differen
 <!-- div:left-panel -->
 Unlike in VRChat, the function-keys (<kbd>F1</kbd>-<kbd>F12</kbd>) are already used by the game. Instead, you need to use <kbd>&nbsp;&nbsp;&nbsp;⇧</kbd> and the Number block.
 
-Left and right <kbd>&nbsp;&nbsp;⇧</kbd> do different face gestures and can be combined.
+Left and right <kbd>&nbsp;&nbsp;&nbsp;⇧</kbd> do different face gestures and can be combined.
 
 <!-- div:right-panel -->
 ![avatar-gestures](_media/avatar-gestures.png)
