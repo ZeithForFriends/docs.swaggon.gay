@@ -5,7 +5,7 @@ function siteWrapperPlugin(hook, vm) {
     '<footer style="text-align: center; padding-top: 40px;">',
     'Swaggon 2026',
     "<br/>",
-    'Made with <span style="color: lightcoral">❤</span> by <a href="https://github.com/phil-flip" target="_blank">Phil</a>, <a href="https://github.com/Zeitheron" target="_blank">Zeith</a> and <a href="https://github.com/ZeithForFriends/docs.swaggon.gay/graphs/contributors" target="_blank">Helpers</a>',
+    'Made with <span style="color: lightcoral">❤</span> by <a href="https://github.com/phil-flip" target="_blank">@Phil</a>, <a href="https://github.com/Zeitheron" target="_blank">@Zeith</a> and <a href="https://github.com/ZeithForFriends/docs.swaggon.gay/graphs/contributors" target="_blank">Helpers</a>',
     "</footer>",
   ].join("");
 
