@@ -88,9 +88,9 @@ Emissions are used to express yourself even more or make your textures bob to th
 The color source and the intensity might not work, if set to "World" and the world is not supporting it.#
 <!-- panels:start -->
 <!-- div:right-panel -->
-![context-menu-emissions](_media/context-menu-emissions.png)
-<!-- div:left-panel -->
 ![avatar-emissions](_media/avatar-emissions.png)
+<!-- div:left-panel -->
+![context-menu-emissions](_media/context-menu-emissions.png)
 <!-- panels:end -->
 
 ## Clothing and Add-ons
