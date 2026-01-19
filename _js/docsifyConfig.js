@@ -24,6 +24,13 @@ window.$docsify = {
     },
     // Search config https://github.com/docsifyjs/docsify/blob/141ac96add9892fcb345551906770c4e9b2265b0/docs/index.html#L105
     search: 'auto',
+    tabs: {
+        persist: true,
+        sync: true,
+        theme: 'material',
+        tabComments: true,
+        tabHeadings: true,
+    },
     'flexible-alerts': {
         important: {
             label: 'Important',

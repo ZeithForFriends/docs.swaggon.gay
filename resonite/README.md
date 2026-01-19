@@ -99,3 +99,58 @@ The color source and the intensity might not work, if set to "World" and the wor
 
 To keep the avatar lightweight, it doesn't come with any clothing pre-added. Instead, we offer all clothing parts and avatar add-ons as separate "orbs". You can equip these orbs through the context menu, while holding it.
 (INSERT PICTURES - MISSING CONTENT)
+
+### Vore Addon
+
+<!-- tabs:start -->
+
+#### **Info**
+
+> [!Note]
+> This can only be used with the "Swaggon-Internal" Avatar!
+>
+> The Vore system is considered 18+ Please confirm your age above by switching to second tab tab.
+
+### **I'm over the age of 18.**
+
+#### General
+
+The System that is being used here is called the Expandable Vore System (EVS) together with a custom orb. We chose to use it over a custom system in order to benefit from compliance, security and feature updates as well as compatibility for existing systems in Resonite.
+
+#### Features
+
+- With EVS
+  - Custom Swaggon belly support
+  - Swallow animation
+- Without EVS
+  - Blendshapes Animations
+  - Internal color adjustments
+
+<!-- panels:start -->
+<!-- div:title-panel -->
+#### How to install
+
+<!-- div:left-panel -->
+1. Spawn out the Orb from the Respack
+2. Save the folder attached to the platform to your Inventory
+3. Install the "Swaggon Vore Addon" as described in a previous step
+4. Adjust your internal, fluid and band color from the addons-menu
+5. Save your modified avatar
+6. Equip the EVS-Band of your choice from the folder you saved in step 2
+   1. Keep in mind that the EVS-Band can only be spawned in hidden/private sessions
+
+:arrow_right: When using it again, you only need to equip your avatar and repeat step 6.
+
+<!-- div:right-panel -->
+![context-menu-evs-colors](_media/context-menu-evs-colors.png)
+
+<!-- panels:end -->
+
+> [!Important]
+>
+> - Best practice is to have a separate copy for 18+ shenanigans.
+> - Do not save the avatar with the EVS-Band equipped. This makes your avatar heavy!
+>   - The Vore-Addon-Orb can stay.
+> - Do not use the EVS Installer. This will partially break the orb.
+
+<!-- tabs:end -->
