@@ -5,6 +5,8 @@
 > [!Important]
 > This guide is tailored more towards newcomers to Resonite, if you are already experienced with the game the more avatar-specific parts are [General Info](#general-info), [Gesture control](#gesture-control) and [Clothing and Add-ons](#clothing-and-add-ons).
 > If you are new to Resonite, it is recommended to read the whole guide to also get started with some of the basics.
+>
+> Keep in mind, that the Resonite-Port - including the Addons - are community driven. If you run into bug or inconsistencies, please do not contact Sweetwater.
 
 ## General Info
 
