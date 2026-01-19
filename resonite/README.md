@@ -28,14 +28,14 @@ The avatar settings can be pressing "Avatar" in the context-menu. All options ar
 ### Options
 
 <!-- div:left-panel -->
-- Toggels and avatar settings
+- Toggles and avatar settings
   - Booper: Toggles the avatar booper
   - Gestures: Enable Keyboard or Controller face-gestures [(More details below)](#gesture-control)
   - HideBodyParts: Required for some clothing options
-  - HideFluff: Hids parts of the fluff
+  - HideFluff: Hides parts of the fluff
   - BodyShape: Customizes different blend-shapes of the body
   - HeadShape: Customizes different blend-shapes of the head
-  - Emmissions: Changes [emission colors](#texture-emissions) of the fluff and parts of the body
+  - Emissions: Changes [emission colors](#texture-emissions) of the fluff and parts of the body
 
 <!-- div:right-panel -->
 ![context-menu-main](_media/context-menu-main.png)
