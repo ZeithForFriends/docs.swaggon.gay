@@ -119,12 +119,11 @@ The System that is being used here is called the Expandable Vore System (EVS) to
 
 #### Features
 
-- With EVS
+- Blendshapes animations
+- Internal color adjustments
+- Additionally with EVS
   - Custom Swaggon belly support
   - Swallow animation
-- Without EVS
-  - Blendshapes Animations
-  - Internal color adjustments
 
 <!-- panels:start -->
 <!-- div:title-panel -->
