@@ -154,7 +154,7 @@ You can equip these orbs through the context menu, while holding it or grabbing 
 > [!Note]
 > This can only be used with the "Swaggon-Internal" Avatar!
 >
-> The Vore system is considered 18+ Please confirm your age above by switching to second tab tab.
+> The Vore system is considered 18+ Please confirm your age above by switching to second tab.
 
 ### **I'm over the age of 18.**
 
