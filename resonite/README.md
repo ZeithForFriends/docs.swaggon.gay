@@ -14,6 +14,33 @@
 >
 > Keep in mind, that this Resonite-Port - including the Addons - are community driven. If you run into bug or inconsistencies you would like to report, please see [Credits and Maintainers](#credits-and-maintainers) and not Sweetwater.
 
+<!-- panels:start -->
+<!-- div:title-panel -->
+## Distribution and Installation
+
+<!-- div:left-panel -->
+1. Join [Sweetwaters Discord Server](https://discord.gg/Yy5KTQj8hk)
+2. Go to [Uni-VCC](https://uni-vcc.app/)
+3. Login with your Discord.
+   1. If you already have an account, make sure you link your Discord account with it.
+4. Navigate to the [Uni-VCC Swaggon Package](https://uni-vcc.app/packages/gay.swaggon)
+5. Activate your license with the green button for the package that you have bought (Base, Expanded, Internal).
+6. When the menu shows a green checkmark you can head to Discord to get the package.
+7. Discord Channels:
+   1. [#res-swaggon-base](https://discord.com/channels/1332560042347593889/1463725264176549941)
+   2. [#res-swaggon-expanded](https://discord.com/channels/1332560042347593889/1463725423341862964)
+   3. [#res-swaggon-full](https://discord.com/channels/1332560042347593889/1463725507005780018)
+8. Grab the Resonite package of the avatar and accessories you want to use in Resonite.
+   1. **Keep in mind that the full-avatar should not be used in public sessions!**
+9. Drag n' Drop the Resonite Package into the game.
+10. Wait for the import to complete and adjust any settings you want.
+11. If you are happy, hold down on "Import Avatar" button at the bottom.
+12. You should be able equip the avatar now through your context menu
+13. Make sure to save it to your inventory to use it later.
+
+<!-- div:right-panel -->
+![Activate License](./_media/uni-vcc-activateLicense.png)
+<!-- panels:end -->
 
 ## General Info
 
