@@ -3,14 +3,22 @@
 # Resonite
 
 > [!Important]
-> This guide is tailored more towards newcomers to Resonite, if you are already experienced with the game the more avatar-specific parts are [General Info](#general-info), [Gesture control](#gesture-control) and [Clothing and Add-ons](#clothing-and-add-ons).
+> This guide is tailored more towards newcomers to Resonite. If you are already experienced with the game, the more avatar-specific parts can be found here:
+>
+> - [Distribution and Installation](#distribution-and-installation) 1.-11.
+> - [General Info](#general-info)
+> - [Gesture control](#gesture-control)
+> - [Clothing and Add-ons](#clothing-and-add-ons)
+>
 > If you are new to Resonite, it is recommended to read the whole guide to also get started with some of the basics.
 >
-> Keep in mind, that the Resonite-Port - including the Addons - are community driven. If you run into bug or inconsistencies, please do not contact Sweetwater.
+> Keep in mind, that this Resonite-Port - including the Addons - are community driven. If you run into bug or inconsistencies you would like to report, please see [Credits and Maintainers](#credits-and-maintainers) and not Sweetwater.
+
 
 ## General Info
 
-- Besides the textures, all settings on the Installer can be changed in the [Context Menu](#context-menu) down the line.
+All settings on the Installer can be changed in the [Context Menu](#context-menu) down the line.
+Textures have to be changed with a inspector and will not be explained in detail in this guide.
 
 ## Context Menu
 
@@ -60,23 +68,25 @@ To change number values you click and drag in a circular motion to not accidenta
 ## Gesture control
 
 <!-- div:left-panel -->
-Make sure to enable it in the context-menu to use them.
+Make sure to enable "Gestures" in your context-menu to use them.
+
+Gestures stay in their last state, when you deactivate them.
 
 <!-- div:right-panel -->
 ![context-menu-gestures](_media/context-menu-gestures.png)
 <!-- panels:end -->
 
-### VR
-
-In VR these are mapped to your controller. Since every controller has a different layout, we won't go into detail for all of them, but you can use the gesture-tester provided here:
-(Insert gesture tester - MISSING CONTENT)
-
 <!-- panels:start -->
 <!-- div:title-panel -->
-### Desktop
+### VR
 
 <!-- div:left-panel -->
-Unlike in VRChat, the function-keys (<kbd>F1</kbd>-<kbd>F12</kbd>) are already used by the game. Instead, you need to use <kbd>&nbsp;&nbsp;&nbsp;⇧</kbd> and the Number block.
+In VR these are mapped to your controller.
+<!-- Since every controller has a different layout, we won't go into detail for all of them, but you can use the gesture-tester provided here: `couldn't find the link` -->
+
+### Desktop
+
+Unlike in VRChat, the function-keys (<kbd>F1</kbd>-<kbd>F12</kbd>) are already used by the game. Instead, you need to use <kbd>&nbsp;&nbsp;&nbsp;⇧</kbd> and the Num-Pad.
 
 Left and right <kbd>&nbsp;&nbsp;&nbsp;⇧</kbd> do different face gestures and can be combined.
 
@@ -95,10 +105,18 @@ The color source and the intensity might not work, if set to "World" and the wor
 ![context-menu-emissions](_media/context-menu-emissions.png)
 <!-- panels:end -->
 
+<!-- panels:start -->
+<!-- div:title-panel -->
 ## Clothing and Add-ons
 
-To keep the avatar lightweight, it doesn't come with any clothing pre-added. Instead, we offer all clothing parts and avatar add-ons as separate "orbs". You can equip these orbs through the context menu, while holding it.
-(INSERT PICTURES - MISSING CONTENT)
+<!-- div:left-panel -->
+To keep the avatar lightweight, it doesn't come with any clothing pre-added. Instead, we offer all clothing parts and avatar add-ons as separate "orbs", which you can also download from Discord.
+
+You can equip these orbs through the context menu, while holding it or grabbing and putting them onto yourself.
+
+<!-- div:right-panel -->
+![context-menu-equip-addon](_media/context-menu-equip-addon.png)
+<!-- panels:end -->
 
 ### Vore Addon
 
