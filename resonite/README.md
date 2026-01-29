@@ -171,3 +171,11 @@ The System that is being used here is called the Expandable Vore System (EVS) to
 > - Do not use the EVS Installer. This will partially break the orb.
 
 <!-- tabs:end -->
+
+## Credits and Maintainers
+
+If you find any bugs or inconsistencies, please reach out to `the.phil.` on Discord.
+
+- Avatar & Clothing: **Nordwick**
+- Internals & Vore System integration: **Axiom Wolf**
+- Coordination: **Phil**
