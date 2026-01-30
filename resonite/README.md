@@ -205,4 +205,5 @@ If you find any bugs or inconsistencies, please reach out to `the.phil.` on Disc
 
 - Avatar & Clothing: **Nordwick**
 - Internals & Vore System integration: **Axiom Wolf**
-- Coordination: **Phil**
+- Coordination & Docs: **Phil**
+- Special Thanks: **Zeith**
