@@ -139,7 +139,7 @@ The color source and the intensity might not work, if set to "World" and the wor
 <!-- div:left-panel -->
 To keep the avatar lightweight, it doesn't come with any clothing pre-added. Instead, we offer all clothing parts and avatar add-ons as separate "orbs", which you can also download from Discord.
 
-You can equip these orbs through the context menu, while holding it or grabbing and putting them onto yourself.
+You can equip these orbs through the context menu, while holding it or grabbing and putting them onto yourself. More in depth installation and usage instructions are described below.
 
 <!-- div:right-panel -->
 ![context-menu-equip-addon](_media/context-menu-equip-addon.png)
