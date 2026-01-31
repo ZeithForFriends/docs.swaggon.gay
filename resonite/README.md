@@ -199,6 +199,14 @@ The System that is being used here is called the Expandable Vore System (EVS) to
 
 <!-- tabs:end -->
 
+## Known issues
+
+- Custom emissive texture option (Hair + Internals) doesn't turn on the emissions by default
+  - Should turn on, if custom texture is loaded
+- Hair texture setup missing in importer
+- Texture swap for internals currently not possible
+- Cant change internal color for Maw-Only version
+
 ## Credits and Maintainers
 
 If you find any bugs or inconsistencies, please reach out to `the.phil.` on Discord.
