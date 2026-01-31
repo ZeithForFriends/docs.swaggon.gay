@@ -19,7 +19,7 @@
 ## Distribution and Installation
 
 <!-- div:left-panel -->
-1. Join [Sweetwaters Discord Server](https://discord.gg/Yy5KTQj8hk)
+1. Join [Sweetwaters Discord Server](https://swaggon.gay/discord)
 2. Go to [Uni-VCC](https://uni-vcc.app/)
 3. Login with your Discord.
    1. If you already have an account, make sure you link your Discord account with it.
